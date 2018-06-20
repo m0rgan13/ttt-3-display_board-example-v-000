@@ -4,12 +4,9 @@ def display_board
   horizontal_line = "------------"
   puts vertical_lines
   puts horizontal_line
-  puts vertical_lines  
+  puts vertical_lines
   puts horizontal_line
   puts vertical_lines
 end
 
 display_board
-
-   
-   
